@@ -1,0 +1,1 @@
+# program-for-magic-number-in-C-
